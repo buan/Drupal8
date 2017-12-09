@@ -1,0 +1,6 @@
+1)After installation,we will see that user/1 is the super user..It has all the permissions. you can add more users as admin,but their permisssions cane be revoked but not the superuser. Super users has full access to the site
+
+2)We have admin button,toolbar and shortcuts tabs
+
+3)Each content in drupal 8 is a node
+

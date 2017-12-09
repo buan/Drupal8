@@ -1,0 +1,1 @@
+Extend means working on modules.Modules are features which add functionality to our website.As we go along the way ,we will add lot of modules. Fow now we will enable the telephone module.It seems it adds a field in the content type

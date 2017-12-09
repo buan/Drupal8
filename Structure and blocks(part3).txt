@@ -1,0 +1,10 @@
+Go to structure->block layouts->add custom block
+
+Add Title as
+Welcome to DrupalVille
+and
+Content as
+Welcome to Drupalville. This is your first block.
+
+We want to place it in sidebar first.
+1. Go to sidebar first.Click place block and select Welcome to Drupalville and save.Refresh page

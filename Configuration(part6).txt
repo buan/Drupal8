@@ -1,0 +1,6 @@
+In Drupal configuration menu we can do lot of things, like changing lot of settings for the site.For now ,we will go to Site settings
+Site name =Drupalville
+Slogan=A great place to learn about Drupal
+Save
+
+This means this is saved for all the pages of the website

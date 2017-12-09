@@ -1,0 +1,1 @@
+Reports are used to see what are the pending updates on module,drupal database updates and drupal core..it gives overall status report of the health of the site

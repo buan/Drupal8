@@ -1,0 +1,13 @@
+In most of the CMS es to add content we have a title field and body field..We add all the data in the body field using html and css.But what if some one asks we want those fields which are created in the year something and starting with this letter on a particular date?
+
+Well this is not possible in other CMS es.Drupal introduces content types and fields whith which we can acheive them.
+
+We will read in the following order
+1)Content Types
+2)Fields
+3)Taxonomy
+4)Path
+5)Add Content
+6)Manage Display
+7)Set permissions
+8)Test

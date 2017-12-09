@@ -1,0 +1,1 @@
+In people we manage, the users of the website.By default you will see there is 1 admin,You can edit and add permissions and add more people.

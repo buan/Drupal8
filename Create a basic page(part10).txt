@@ -1,0 +1,5 @@
+Create a basic page
+About Page.By default basic page is not promoted it to the front page..it has only 2 fields.
+1)Title=About Drupalville
+2)Body=This is the about page of Drupalville
+
